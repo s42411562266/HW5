@@ -28,6 +28,7 @@
         <activity android:name=".RatioStar"></activity>
         <activity android:name=".Men"></activity>
         <activity android:name=".Sp"></activity>
+        <activity android:name=".LifeCycle"></activity>
     </application>
 
 </manifest>

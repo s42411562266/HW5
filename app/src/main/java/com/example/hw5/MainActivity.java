@@ -63,4 +63,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
         //MainActivity.this.finish();
     }
+
+    public void KHGRich(View v){
+        Intent intent=new Intent();
+        intent.setClass(this,LifeCycle.class);
+        startActivity(intent);
+    }
 }
